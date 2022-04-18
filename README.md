@@ -12,6 +12,14 @@ This assignment highlights the use of JavaScript by modifying starter code in or
 * CSS
 * JavaScript
 
+**License**
+* ![MIT license](license.txt)
+
+**Contact Me**
+* Email: joechoe125@gmail.com
+* Github: https://github.com/jchoe125
+* LinkedIn: https://www.linkedin.com/in/joe-choe-a97b52237/
+
 **Submission**
 * The URL of the deployed application.
   * URL of deployed application: https://jchoe125.github.io/Password-Generator/
