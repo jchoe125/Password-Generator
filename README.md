@@ -3,10 +3,14 @@
 
 **Objective**
 
-This assignment highlights the use of Javascript by modifying starter code in order to create an application that generates a random secure password based on selected criteria, e.g. password length, inclusion of numbers, upper/lowercase letters, and/or special characters. Upon selecting the criteria, the password will generate and appear in the dotted text box as shown in the screenshot below:
+This assignment highlights the use of JavaScript by modifying starter code in order to create an application that generates a random secure password based on selected criteria, e.g. password length, inclusion of numbers, upper/lowercase letters, and/or special characters. Upon selecting the criteria, the password will generate and appear in the dotted text box as shown in the screenshot below:
 
 ![website screenshot](https://github.com/jchoe125/Password-Generator/blob/main/Images/PasswordGenerator%20Img.JPG)
 
+**Technologies Used**
+* HTML
+* CSS
+* JavaScript
 
 **Submission**
 * The URL of the deployed application.
