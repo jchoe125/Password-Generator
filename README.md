@@ -13,7 +13,7 @@ This assignment highlights the use of JavaScript by modifying starter code in or
 * JavaScript
 
 **License**
-* ![MIT license](license.txt)
+* [license.txt](https://github.com/jchoe125/Password-Generator/blob/main/license.txt)
 
 **Contact Me**
 * Email: joechoe125@gmail.com
